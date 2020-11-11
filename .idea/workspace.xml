@@ -19,12 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52d11552-124a-44bf-acb1-d2c93e8fabad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/index1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/luyenTap.html" beforeDir="false" />
-    </list>
+    <list default="true" id="52d11552-124a-44bf-acb1-d2c93e8fabad" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604997786203</updated>
       <workItem from="1604997787297" duration="98000" />
-      <workItem from="1605064861041" duration="1797000" />
+      <workItem from="1605064861041" duration="2211000" />
     </task>
     <servers />
   </component>
